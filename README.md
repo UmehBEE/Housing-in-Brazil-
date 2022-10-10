@@ -23,6 +23,9 @@ Brazil-real-estate-1.csv - Dataset containing all housing information for Brazil
 Brazil-real-estate-2.csv - Dataset containing all  housing information for Brazil provided by WorldQuant. Note: This does not include the 'Price_usd' data column but has the 'state' data.
 
 ## Built with
-Python 3.6.6 - The language used to develop this.
-pandas - One of the libraries used for this.
-numpy - One of the libraries used for this.
+* Python 3.6.6 - The language used to develop this.
+* pandas - One of the libraries used for this.
+* numpy - One of the libraries used for this.
+## Acknowledgements
+pandas docs - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
+WorldQuant - WorldQuant Data science lab and their instructors were extremely helpful while I was pursuing this project.
