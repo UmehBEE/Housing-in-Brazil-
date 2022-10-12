@@ -3,7 +3,7 @@ Basic Data Exploration with pandas on data on Housing in Brazil - A Python proje
 ![d133ee0a-1b43-11e3-b781-00144feab7de](https://user-images.githubusercontent.com/91852444/194940859-32c92ccc-7e55-4413-913f-0de0c65682c5.jpg)
 
 ## Project Overview
-This project focuses on pandas library usage and simple statistics methods to perform descriptive analysis on the dataset of homes for sale in Brazil - to determine if there are regional differences in the real estate market. Also, to look at southern Brazil to see if there is a relationship between home size and price, similar to what you saw with housing in some states in Mexico.
+This project focuses on pandas library usage and simple statistics methods to perform descriptive analysis on the dataset of homes for sale in Brazil - to determine if there are regional differences in the real estate market. Also, to look at southern Brazil to see if there is a relationship between home size and price.
 
 ## Running the program
 You can input 'Housing in Brazil.py' on your terminal to run this program. I use Anaconda's command prompt on a Windows 10 machine.
